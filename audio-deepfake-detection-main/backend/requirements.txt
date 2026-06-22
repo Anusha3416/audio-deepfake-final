@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+gradio_client
+requests
+torch
+torchaudio
+transformers
+datasets
+gradio
+librosa
+numpy
+soundfile
+accelerate
+python-jose[cryptography]
+bcrypt
