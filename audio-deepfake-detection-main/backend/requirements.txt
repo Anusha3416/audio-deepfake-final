@@ -5,7 +5,7 @@ gradio_client
 requests
 torch
 torchaudio
-transformers
+transformers>=4.26.0
 datasets
 gradio
 librosa
